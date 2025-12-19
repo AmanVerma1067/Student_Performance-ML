@@ -128,17 +128,15 @@ Open your browser and navigate to:
 ## 📸 Screenshots
 
 ### 1. Landing Page
-
 *The entry point of the application.*
-*(Add your screenshot image to a folder and update the path above)*
 
 ### 2. Prediction Form
-
 *User inputs student details (Gender, Ethnicity, Scores, etc.).*
 
 ### 3. Prediction Result
-
 *The model displays the predicted Math Score.*
+
+![Prediction Result](notebook/display_result.png)
 
 ---
 
@@ -174,5 +172,3 @@ The training process involves three main stages:
 
 * Email: amanverma1067@gmail.com
 * GitHub: [amanverma1067](https://www.google.com/search?q=https://github.com/amanverma1067)
-
-```
